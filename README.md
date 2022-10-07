@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Thomas</h1>
-<h3 align="center">A full stack developer from Orange County, CA</h3>
+<h1 align="center">Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Thomas</h1>
+<h3 align="center">A Software Engineer from Orange County, CA</h3>
 
 <p align="left"> <a href="https://twitter.com/thomaswizzo" target="blank"><img src="https://img.shields.io/twitter/follow/thomaswizzo?logo=twitter&style=for-the-badge" alt="thomaswizzo" /></a> </p>
 
